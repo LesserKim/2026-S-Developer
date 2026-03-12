@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="DebugMT" />
+    <BuildType Name="Release" />
+    <BuildType Name="ReleaseMT" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lecture-01.vcxproj" Id="b6ab837c-fdce-43ba-8d92-4d07f0ed5e7f" />
+</Solution>
