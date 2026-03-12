@@ -1,0 +1,16 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="DebugMT" />
+    <BuildType Name="Release" />
+    <BuildType Name="ReleaseMT" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Lecture02-lib/Lecture02-libW/Lecture02-libW.vcxproj" Id="e3abdee9-452c-4233-b73b-a8e10f1be5d6">
+    <BuildType Solution="DebugMT|*" Project="Debug" />
+    <BuildType Solution="ReleaseMT|*" Project="Release" />
+  </Project>
+  <Project Path="D:/Git/profrog/src/Lecture-02/Lecture02-lib/Lecture02-libA/Lecture02-libA.vcxproj" Id="31266374-b8ca-4ace-aaed-b55317320249" />
+  <Project Path="D:/Git/profrog/src/Lecture-02/Lecture02/Lecture02.vcxproj" Id="763515b9-eb59-4f4b-ab16-34a920d4e130" />
+</Solution>
