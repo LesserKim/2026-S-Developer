@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="DebugMT" />
+    <BuildType Name="Release" />
+    <BuildType Name="ReleaseMT" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="0310cppcore.vcxproj" Id="98aa904d-e12a-4f0b-9f03-d14df4ade1e3" />
+</Solution>
